@@ -17,5 +17,6 @@ _______         ______   _______  _______  _______
 
 - [x] initial a-docs
 - [x] add logos
-- [ ] 新增一个浏览器插件,可以快速添加文章到这里
-- [ ] 新增一个 push tool
+- [x] 新增一个浏览器插件,可以快速添加文章到这里
+- [x] 新增一个 robot
+- [x] 新增一个 [Glitch 服务](https://bee-readers.xiaoa.name/)
