@@ -19,4 +19,4 @@ _______         ______   _______  _______  _______
 - [x] add logos
 - [x] 新增一个浏览器插件,可以快速添加文章到这里
 - [x] 新增一个 robot
-- [x] 新增一个 [Glitch 服务](https://bee-readers.xiaoa.name/)
+- [x] 新增一个 [Glitch 服务](https://r.xiaoa.name/)
